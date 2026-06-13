@@ -69,3 +69,5 @@ php artisan key:generate
    ```text
    http://127.0.0.1:8000
    ```
+# LINK YOUTUBE
+https://youtu.be/N1FmSAGku6s
